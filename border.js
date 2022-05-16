@@ -1,6 +1,6 @@
 let border = `
 <div class="top">
-starklightxyz.github.io
+starklightxyz.github.io 
 <a href="/index.html">home</a> 
 <a href="/2nd_page.html">2</a>
 <a href="/3rd_page.html">3</a>
